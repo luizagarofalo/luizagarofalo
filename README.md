@@ -1,8 +1,12 @@
-## Hello, there!
+## Hello there!
 
-I'm an iOS Developer with more than five years of working experience developing mobile applications with its best practices: pair programming, code reviewing, refactoring old code base, test coverage with unit tests, troubleshooting and debugging. I also have a lot of experience with financial products, having worked for large companies in the sector. 
+I'm a Senior iOS Developer with over 7 years of working experience building high-quality mobile applications. I specialize in Swift, UIKit, and SwiftUI, and I'm passionate about scalable architecture, code quality, and delivering outstanding user experiences.
 
-I've been looking for companies that have a strong engineer culture, that would provide me the opportunity to use new technologies and to work with people from different cultures.
+Throughout my career, I've contributed to consumer-facing and financial apps at scale, collaborating closely with cross-functional teams in agile environments. I also have experience as a Tech Lead for iOS projects, mentoring developers and helping maintain high engineering standards through architecture decisions, code quality improvements, and team collaboration.
 
-* My pronouns are she/her.
-* I'm really into photography, dog training and coffee brewing.
+I'm skilled in refactoring legacy codebases, implementing automated testing, and setting up efficient CI/CD pipelines. I'm always seeking opportunities to learn, grow, and work with innovative technologies.
+
+I'm looking for teams with a strong engineering culture, where collaboration, innovation, and technical excellence are valued.
+
+* My pronouns are she/her.  
+* Outside of coding, I'm passionate about photography, dog training, and coffee brewing.
